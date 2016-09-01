@@ -1,0 +1,2 @@
+gcc -Wall -ansi -pedantic -c math.c
+gcc -o math math.o
